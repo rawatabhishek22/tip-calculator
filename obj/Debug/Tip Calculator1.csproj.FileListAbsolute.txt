@@ -1,0 +1,10 @@
+E:\w2aDealerDB\Tip Calculator1\Tip Calculator1\bin\Debug\Tip Calculator1.exe.config
+E:\w2aDealerDB\Tip Calculator1\Tip Calculator1\bin\Debug\Tip Calculator1.exe
+E:\w2aDealerDB\Tip Calculator1\Tip Calculator1\bin\Debug\Tip Calculator1.pdb
+E:\w2aDealerDB\Tip Calculator1\Tip Calculator1\obj\Debug\Tip Calculator1.csprojAssemblyReference.cache
+E:\w2aDealerDB\Tip Calculator1\Tip Calculator1\obj\Debug\Tip_Calculator1.Form1.resources
+E:\w2aDealerDB\Tip Calculator1\Tip Calculator1\obj\Debug\Tip_Calculator1.Properties.Resources.resources
+E:\w2aDealerDB\Tip Calculator1\Tip Calculator1\obj\Debug\Tip Calculator1.csproj.GenerateResource.cache
+E:\w2aDealerDB\Tip Calculator1\Tip Calculator1\obj\Debug\Tip Calculator1.csproj.CoreCompileInputs.cache
+E:\w2aDealerDB\Tip Calculator1\Tip Calculator1\obj\Debug\Tip Calculator1.exe
+E:\w2aDealerDB\Tip Calculator1\Tip Calculator1\obj\Debug\Tip Calculator1.pdb
