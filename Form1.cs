@@ -77,7 +77,7 @@ namespace Tip_Calculator1
         {
           
             
-                _tipIncrement ++;                                 //to increment tip number by 1
+                _tipIncrement ++;                                 //to increment tip % by 1
                 textTip.Text = _tipIncrement.ToString();
             
         }
@@ -90,7 +90,7 @@ namespace Tip_Calculator1
             }
             else
             {
-                 _tipIncrement --;                                          //to decrement tip number by 1
+                 _tipIncrement --;                                          //to decrement tip % by 1
                 textTip.Text = _tipIncrement.ToString();
             }
         }
